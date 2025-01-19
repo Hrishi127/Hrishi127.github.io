@@ -177,7 +177,7 @@ class AppsInfoController extends GetxController{
     },
     { "appname": "JSON Viewer",
       "appversion": "1.0",
-      "icon": "ad.png",
+      "icon": "jv.png",
       "appbarcolor": Colors.indigo,
       "bodycolor": const Color(0xFFFFFFFF),
       "appdescription": "Simplify your JSON experience with JSON Viewer! Effortlessly view and edit JSON content with intuitive tools, fast navigation, and customizable text size. Boost productivity and streamline your workflow with ease!",
